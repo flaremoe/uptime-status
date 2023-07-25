@@ -22,15 +22,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://tjys.tk'
+      url: 'https://zt.ci-wiki.cn/'
     },
     {
-      text: '博客',
-      url: 'https://blog.qikaile.tk'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      text: '中文站首页',
+      url: 'http://ci-cn-wiki.wikidot.com/'
     },
   ],
 };
